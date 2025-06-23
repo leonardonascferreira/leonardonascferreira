@@ -3,7 +3,7 @@ import Desenvolvedor from "leonardonascferreira";
 
 class SobreMim extends Desenvolvedor {
   nome = "Leonardo";
-  area = "Full Stack";
+  stack = "Full Stack";
 }
 
 class Skills extends Desenvolvedor {

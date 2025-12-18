@@ -6,14 +6,14 @@ Me chamo Leonardo Nascimento Ferreira, tenho 19 anos e sou natural de São Paulo
 Sigo estudando e montando projetos para ganhar experiência real e me preparar para atuar como desenvolvedor back-end., 
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/leonardonascferreira?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/leonardonascferreira?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 

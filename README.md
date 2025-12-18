@@ -49,7 +49,6 @@ Sigo estudando e montando projetos para ganhar experiência real e me preparar p
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
-/>
 <img 
     align="left" 
     alt="Git" 
@@ -58,7 +57,6 @@ Sigo estudando e montando projetos para ganhar experiência real e me preparar p
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
 
 <br/>
 <br/>

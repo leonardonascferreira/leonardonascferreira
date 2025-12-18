@@ -68,7 +68,7 @@ Sigo estudando e montando projetos para ganhar experiência real e me preparar p
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardonascferreira" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardonascferreira&theme=tokyonigh&layout=compact" 
   />
 
 </p>

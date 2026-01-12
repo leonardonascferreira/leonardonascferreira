@@ -3,7 +3,7 @@
 **`Desenvolvedor Back-end`**
 
 Me chamo Leonardo Nascimento Ferreira, tenho 19 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniFECAF. Gosto de trabalhar com lógica, organização de dados e construção de funcionalidades que rodam “por trás” das aplicações. 
-Sigo estudando e montando projetos para ganhar experiência real e me preparar para atuar como desenvolvedor back-end., 
+Sigo estudando e montando projetos para ganhar experiência real e me preparar para atuar como desenvolvedor back-end.
 
 ---
 

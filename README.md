@@ -1,13 +1,14 @@
 # 👨🏻‍💻 Leonardo
 
-**`Desenvolvedor Back-end`**
+**`Back-end Developer`**
 
-Me chamo Leonardo Nascimento Ferreira, tenho 19 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniFECAF. Gosto de trabalhar com lógica, organização de dados e construção de funcionalidades que rodam “por trás” das aplicações. 
-Sigo estudando e montando projetos para ganhar experiência real e me preparar para atuar como desenvolvedor back-end.
+Welcome to my GitHub profile!
+I'm Leonardo, an Systems Analysis and Development student, currently at my first semester.
+I enjoy working with web development, API integrations, and SQL databases. 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 

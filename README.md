@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Leonardo
+# Hi, I'm Leonardo
 
 **`Back-end Developer`**
 

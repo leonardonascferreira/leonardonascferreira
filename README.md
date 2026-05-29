@@ -1,63 +1,71 @@
-# Hi, I'm Leonardo!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E3A8A&height=190&section=header&text=Leonardo%20Ferreira&fontSize=38&fontColor=EFF6FF&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Node.js%20%7C%20Python%20%7C%20TypeScript%20&descSize=15&descAlignY=58&descColor=BFDBFE" alt="Leonardo Ferreira - Backend Developer" width="100%" />
+</p>
 
-**`Back-end Developer`**
-
-Welcome to my GitHub profile!
-I'm Leonardo, an Systems Analysis and Development student, currently at my first semester.
-I enjoy working with web development, API integrations, and SQL databases. 
+<p align="center">
+  <a href="https://www.linkedin.com/in/leonardonascferreira/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Leonardo%20Ferreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:leonardonascferreira@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-leonardonascferreira%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+</p>
 
 ---
 
-### 🤖 Languages and Technologies
+## Sobre Mim
 
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript" 
-    title="TypeScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+Sou desenvolvedor backend e estudante de Análise e Desenvolvimento de Sistemas, com foco na construção de aplicações web, APIs REST e automação de processos. Trabalho principalmente com Node.js, TypeScript e Python, desenvolvendo sistemas com autenticação, integração entre serviços, manipulação de dados e arquitetura escalável.
 
-<br/>
-<br/>
+Tenho experiência prática no desenvolvimento de projetos backend, sistemas de gerenciamento, automações e aplicações voltadas para produtividade. Também atuo com Docker, Git/GitHub, deploy em plataformas cloud e integração com APIs externas.
+
+Além do desenvolvimento, possuo vivência com suporte técnico e troubleshooting de software e hardware, o que fortaleceu minha capacidade analítica, resolução de problemas e adaptação em diferentes ambientes tecnológicos.
+
+- Backend com Node.js, TypeScript, Python, APIs REST e integração entre serviços.
+- Desenvolvimento de aplicações web com autenticação, gerenciamento de sessões e persistência de dados.
+- Experiência com PostgreSQL, Docker, Git/GitHub e deploy em plataformas cloud.
+- Integração com APIs externas, manipulação de dados, exportação CSV/Excel e validação de informações.
+- Base sólida em troubleshooting, suporte técnico, diagnóstico de software/hardware e resolução de problemas.
+
+---
+
+## Stack Tecnológica
+
+### Linguagens
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C/C++" />
+</p>
+
+### Cloud, DevOps e Ferramentas
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+---
+
+## Contato
+
+<p>
+  <a href="mailto:leonardonascferreira@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-leonardonascferreira%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+  <a href="https://www.linkedin.com/in/leonardonascferreira/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-leonardo--ferreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/kaikerod" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-leonardonascferreira-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E3A8A&height=120&section=footer" alt="footer" width="100%" />
+</p>

@@ -59,7 +59,7 @@ Além do desenvolvimento, possuo vivência com suporte técnico e troubleshootin
     <img src="https://img.shields.io/badge/E--mail-leonardonascferreira%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
   <a href="https://www.linkedin.com/in/leonardonascferreira/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-leonardo--ferreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Leonardo%20Ferreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/kaikerod" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-leonardonascferreira-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />

@@ -17,7 +17,7 @@
 
 Sou desenvolvedor backend e estudante de Análise e Desenvolvimento de Sistemas, com foco na construção de aplicações web, APIs REST e automação de processos. Trabalho principalmente com Node.js, TypeScript e Python, desenvolvendo sistemas com autenticação, integração entre serviços, manipulação de dados e arquitetura escalável.
 
-Tenho experiência prática no desenvolvimento de projetos backend, sistemas de gerenciamento, automações e aplicações voltadas para produtividade. Também atuo com Docker, Git/GitHub, deploy em plataformas cloud e integração com APIs externas.
+Tenho experiência prática no desenvolvimento de projetos backend, sistemas de gerenciamento, automações e aplicações voltadas para produtividade. Também atuo com Docker, Git/GitHub, deploy em plataformas cloud e integração com APIs externas. 
 
 Além do desenvolvimento, possuo vivência com suporte técnico e troubleshooting de software e hardware, o que fortaleceu minha capacidade analítica, resolução de problemas e adaptação em diferentes ambientes tecnológicos.
 
@@ -68,7 +68,7 @@ Além do desenvolvimento, possuo vivência com suporte técnico e troubleshootin
   <a href="https://www.linkedin.com/in/leonardonascferreira/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Leonardo%20Ferreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/kaikerod" target="_blank">
+  <a href="https://github.com/leonardonascferreira" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-leonardonascferreira-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
